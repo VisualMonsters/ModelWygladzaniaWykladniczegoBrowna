@@ -1,0 +1,24 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ModelWygladzaniaWykladniczegoBrowna
+</name>
+</assembly>
+<members>
+<member name="P:ModelWygladzaniaWykladniczegoBrowna.My.Resources.Resources.ResourceManager">
+	<summary>
+Zwraca buforowane wystąpienie ResourceManager używane przez tę klasę.
+</summary>
+</member><member name="P:ModelWygladzaniaWykladniczegoBrowna.My.Resources.Resources.Culture">
+	<summary>
+  Zastępuje właściwość CurrentUICulture bieżącego wątku dla wszystkich
+  przypadków przeszukiwania zasobów za pomocą tej klasy zasobów wymagającej zdefiniowania typu.
+</summary>
+</member><member name="T:ModelWygladzaniaWykladniczegoBrowna.My.Resources.Resources">
+	<summary>
+  Klasa zasobu wymagająca zdefiniowania typu do wyszukiwania zlokalizowanych ciągów itd.
+</summary>
+</member>
+</members>
+</doc>
